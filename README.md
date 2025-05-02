@@ -1,6 +1,6 @@
 <h3 align="center"> Hi there, I'm Topser. </h3>
-
-An Enthusiast Developer from laos.<br>
+<h3 align="center"> An Enthusiast Developer from laos.<br>
+<h3 align="center"> I can't access my old username @topser9 on github so I need to change my username.</h3>
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dtechyminati&longCache=true)](https://github.com/Paksan11)
 
