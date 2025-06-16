@@ -83,3 +83,7 @@
     <img src="https://img.shields.io/badge/XDA-Developers-2CA5E0?style=for-the-badge&logo=xda-developers" />
   </a>
 </div>
+<div style="display:flex">
+ <a href="https://mail.google.com/mail/u/topser1151@gmail.com/?hl=th#inbox">
+   <img src="https://img.shields.io/badge/Gmail-2CA5E0?style=for-the-badge&logo=Gmail" />
+  </a>
