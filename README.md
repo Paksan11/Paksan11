@@ -8,10 +8,6 @@
  
 ![Paksan11 github stats](https://github-stats-alpha.vercel.app/api/?username=Paksan11&cc=FFC107&ic=000000&bc=000000tc=FFFFFF)
 
-<p align="center" >   
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paksan11&&show_icons=true&theme=radical"/>
-</p>
-
 ![stat](https://github-readme-streak-stats.herokuapp.com/?user=Paksan11&theme=dark)
 
 <p align="center"><img width="130" src="https://komarev.com/ghpvc/?username=Paksan11&style=dark" alt="Paksan11"></p>
@@ -83,7 +79,3 @@
     <img src="https://img.shields.io/badge/XDA-Developers-2CA5E0?style=for-the-badge&logo=xda-developers" />
   </a>
 </div>
-<div style="display:flex">
- <a href="https://mail.google.com/mail/u/topser1151@gmail.com/?hl=th#inbox">
-   <img src="https://img.shields.io/badge/Gmail-2CA5E0?style=for-the-badge&logo=Gmail" />
-  </a>
