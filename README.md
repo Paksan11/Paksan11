@@ -18,15 +18,15 @@
 
 [SM-A107xx](https://github.com/topser9/twrp_device_samsung_a10s)
 
-[SM-A202xx](https://github.com/topser9/twrp_device_samsung_a20e)
+[SM-A202xx](https://github.com/Paksan11/twrp_device_samsung_a20e)
 
-[SM-A205xx](https://github.com/topser9/twrp_device_samsung_a20)
+[SM-A205xx](https://github.com/Paksan11/twrp_device_samsung_a20)
 
 [SM-P205xx](https://github.com/topser9/twrp_device_samsung_p205)
  
-[SM-A305xx](https://github.com/topser9/twrp_device_samsung_a30)
+[SM-A305xx](https://github.com/Paksan11/twrp_device_samsung_a30)
 
-[SM-A307xx](https://github.com/topser9/twrp_device_samsung_a30s)
+[SM-A307xx](https://github.com/Paksan11/twrp_device_samsung_a30s)
 
 [SM-A507xx](https://github.com/topser9/twrp_device_samsung_a50s)
 
